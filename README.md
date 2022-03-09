@@ -3,5 +3,6 @@
 
 full Responsive
 
+live: https://mahadidev7.github.io/Daraz-clone/
 
 
